@@ -1,5 +1,6 @@
 {
-    "name": "huseyin/composertest",
+    "name": "sonrakiyazilimci/composertest",
+    "type": "project",
     "authors": [
         {
             "name": "Hüseyin Aslım",
