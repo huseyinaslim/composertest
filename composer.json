@@ -1,0 +1,10 @@
+{
+    "name": "huseyin/composertest",
+    "authors": [
+        {
+            "name": "Hüseyin Aslım",
+            "email": "huseyin.aslim2@ogrenci.selcuk.edu.tr"
+        }
+    ],
+    "require": {}
+}
